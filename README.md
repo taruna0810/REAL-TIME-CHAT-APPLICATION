@@ -20,3 +20,6 @@
 
 #OUTPUT
 
+<img width="938" alt="Image" src="https://github.com/user-attachments/assets/143bb274-3e58-4019-9d9e-4317af71479b" />
+
+<img width="923" alt="Image" src="https://github.com/user-attachments/assets/e52662ea-c879-40f9-9531-ce178345c2fe" />
